@@ -1,0 +1,265 @@
+.img1{
+    margin-left: 100px;
+    height: 80px;
+}
+
+.table1{
+    padding-left: 700px;
+}
+
+.headding1{
+    font-size: 30px;
+    background: -webkit-linear-gradient(#47db37,#4068bd);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.headding2{
+    font-size: 22px;
+    background: -webkit-linear-gradient(#47db37,#4068bd);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.text2{
+    color: green;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+
+
+
+ul{
+    padding: 0px;
+    list-style: none;
+    background: #fdfcfc;
+}
+ul li{
+    padding-left: 0px;
+    display: inline-block;
+    position: relative;
+    line-height: 21px;
+    text-align: left;
+}
+ul li a{
+    font-family: sans-serif;
+    display: block;
+    padding: 8px 25px;
+    color: green;
+    text-decoration: none;
+}
+ul li a:hover{
+    color: black;
+    background: #43b02a;
+}
+ul li ul.dropdown{
+    min-width: 150%; /* Set width of the dropdown */
+    background: #f2f2f2;
+    display: none;
+    position: absolute;
+    z-index: 999;
+    left: 0;
+}
+ul li:hover ul.dropdown{
+    display: block;	/* Display the dropdown */
+}
+ul li ul.dropdown li{
+    display: block;
+}
+
+
+
+.button-68 {
+  appearance: none;
+  backface-visibility: hidden;
+  background-color: #27ae60;
+  border-radius: 8px;
+  border-style: none;
+  box-shadow: rgba(39, 174, 96, .15) 0 4px 9px;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Inter,-apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: normal;
+  line-height: 1.5;
+  outline: none;
+  overflow: hidden;
+  padding: 13px 20px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transform: translate3d(0, 0, 0);
+  transition: all .3s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: top;
+  white-space: nowrap;
+  padding: 10px 20px;
+  
+}
+
+.button-68:hover {
+  background-color: #1e8449;
+  opacity: 1;
+  transform: translateY(0);
+  transition-duration: .35s;
+}
+
+.button-68:active {
+  transform: translateY(2px);
+  transition-duration: .35s;
+}
+
+.button-68:hover {
+  box-shadow: rgba(39, 174, 96, .2) 0 6px 12px;
+}
+
+
+
+.headdingstart{
+    color: #4068bd;
+    text-align: left;
+}
+
+.infostart{
+
+    font-size: 20px;
+}
+
+.infool{
+    padding-left: 100px;   
+    font-size: 20px;
+}
+
+
+.divpadding{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+
+.tableplace{   
+    border: 1px solid black; 
+    border-collapse: collapse;
+}  
+
+.table_text{
+    color: #1e8449;
+}
+
+th, td {
+    /* text-align: center; */
+    padding-top: 10px;
+    padding-bottom: 20px;
+    /* padding-left: 40px;
+    padding-right: 40px; */
+}
+
+.secondtable td{
+    text-align: left;
+}
+  
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.tablehead{
+    color: #f2f2f2;
+    font-size: 40px;
+}
+
+.tablehead2{
+    color: #f2f2f2;
+    font-size: 20px;
+}
+
+
+.ttext{
+     text-align: center;
+     padding-top: 32.5px;
+     padding-bottom: 30px;
+     padding-left: 40px;
+     padding-right: 40px;
+}
+
+
+.divbr{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+
+
+
+.floatedTable {
+    float:left;
+}
+.inlineTable {
+    display: inline-block;
+}
+
+
+.divpadfac{
+    padding-left: 220px;
+    padding-right: 200px;
+}
+
+
+.research1{
+    color: #4068bd;
+}
+.research2{
+    color: #2a9460;
+}
+
+
+.headdinglast{
+    color: #4068bd;
+    text-align: center;
+}
+
+.tablediv{
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+
+.lastdiv{
+    background: #c0bbbb;
+}
+
+
+
+.lasttable{
+    padding-left: 200px;
+}
+
+.tablerow{
+    padding-right: 120px;
+    padding-top: 0px;
+    padding-bottom: 8px;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.lastdiv2{
+    background-color: rgb(183, 177, 177);
+}
+
+
+.lasttxt{
+    text-align: center;
+    font-size: 18px ;
+}
